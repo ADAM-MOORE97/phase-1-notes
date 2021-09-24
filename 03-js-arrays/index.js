@@ -4,74 +4,28 @@
 
     // what are arrays?
 
-        // let array = []
-        // let array = new Array('my element');
-        // let array = new Array();
-        // array[0]='my'
-        // console.log(array)
-
-
     // define an array with several values
-
-    // let array = ['john','ben', 'sam']
-
     // what is the technical term for these individual items?
 
-    // values, indexed 
-       
     // count items in an array
-    // console.log(array)
-    // console.log(array.length)
 
     // access elements in an array
-    
-    // console.log(array[0])
-   
 
 // ✅ Modifying Arrays
 
     // adding elements to an array
 
         // add element to end of array
-        //.push
-
-        // let array = ['john','ben', 'sam']
-        // console.log(array)
-        // array.push('adam')
-        // console.log(array)
-
-
-
 
         // add element to beginning of array
-        //.unshift
-
-        // let array = ['john','ben', 'sam']
-        // console.log(array)
-        // array.unshift('brooke')
-        // console.log(array)
-
-
 
     // removing elements from an array
-    // let array = ['john','ben', 'sam', 'jacob']
-
+        
         // remove last element and return that element
-    // console.log(array);
-    //  array.pop();
-    //  console.log(array);
-
     
         // remove first element and return that element
-        // array.shift();
-        // console.log(array);
     
         // return the element at the index provided in a new array
-
-
-        // console.log(array)
-        // let newArray = array.slice(1)
-        // console.log(newArray)
     
         // return all elements where index >= 0 and index < 2
 
@@ -93,11 +47,6 @@
         
 
 // ✅ Iterating Through Arrays
-
-
-
-let array = ['john','ben', 'sam', 'jacob']
-
 
     // looping over arrays
         
